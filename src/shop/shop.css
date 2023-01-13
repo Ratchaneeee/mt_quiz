@@ -1,0 +1,15 @@
+.menu-icon svg{
+vertical-align: baseline !important;
+}
+.text-add-shop{
+    background: #eaeaea;
+    padding: 10px;
+}
+.avatar-shop{
+    width: 56px;
+    height: 56px;
+}
+.row-my-shop{
+    justify-content: center;
+    display: flex;
+}
